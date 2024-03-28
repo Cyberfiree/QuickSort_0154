@@ -9,7 +9,8 @@ int n;
 
 void input() {
     while (true) {
-
+        cout << "Masukkan panjang elemen arrya :";
+        cin >> n;
     }
 }
 
