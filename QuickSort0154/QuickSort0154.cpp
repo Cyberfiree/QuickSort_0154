@@ -90,6 +90,7 @@ int main()
 
     do {
         input();
+        q_short(0, n - 1);
     } while (true);
 
     return 0;
