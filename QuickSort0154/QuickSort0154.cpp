@@ -86,5 +86,10 @@ void display() {
 
 int main()
 {
+    char ch;
 
+    do {
+    } while (true);
+
+    return 0;
 }
